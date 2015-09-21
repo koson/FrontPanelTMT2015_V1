@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FrontPanelTMT2015", "FrontPanelTMT2015.vcxproj", "{A97A8E59-740D-4D89-AB7C-EE51FD08BE99}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteControl_V1", "..\RemoteControl_V1\RemoteControl_V1.vcxproj", "{6159D430-FCDB-4112-BB99-9C0EF729A04E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sketch1", "..\Sketch1\Sketch1.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asd", "..\asd\asd.vcxproj", "{274ECC73-A616-4FAB-B844-03C3D6B775E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97A8E59-740D-4D89-AB7C-EE51FD08BE99}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A97A8E59-740D-4D89-AB7C-EE51FD08BE99}.Debug|Win32.Build.0 = Debug|Win32
+		{A97A8E59-740D-4D89-AB7C-EE51FD08BE99}.Release|Win32.ActiveCfg = Release|Win32
+		{A97A8E59-740D-4D89-AB7C-EE51FD08BE99}.Release|Win32.Build.0 = Release|Win32
+		{6159D430-FCDB-4112-BB99-9C0EF729A04E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6159D430-FCDB-4112-BB99-9C0EF729A04E}.Debug|Win32.Build.0 = Debug|Win32
+		{6159D430-FCDB-4112-BB99-9C0EF729A04E}.Release|Win32.ActiveCfg = Release|Win32
+		{6159D430-FCDB-4112-BB99-9C0EF729A04E}.Release|Win32.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.Build.0 = Release|Win32
+		{274ECC73-A616-4FAB-B844-03C3D6B775E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{274ECC73-A616-4FAB-B844-03C3D6B775E1}.Debug|Win32.Build.0 = Debug|Win32
+		{274ECC73-A616-4FAB-B844-03C3D6B775E1}.Release|Win32.ActiveCfg = Release|Win32
+		{274ECC73-A616-4FAB-B844-03C3D6B775E1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
